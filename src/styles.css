@@ -1,0 +1,74 @@
+body {
+    display: block;
+    max-width: 800px;
+    margin: 100px auto 0;
+    padding: 20px 10px;
+    font-size: 20px;
+    border: 1px solid rgb(238, 234, 234);
+    border-radius: 20px;
+    box-shadow: rgb(214, 211, 211) 10px 5px 5px;
+}
+.temperature,
+.city-date {
+text-align: center;
+padding: 20px;
+color: rgb(67, 111, 113);
+margin-top: 10px;
+}
+.current-weather-icon {
+    max-width: 60px; 
+    margin-left: 10px;  
+}
+.weather-icon {
+    display: block;
+    margin: auto;
+    max-width: 50px;
+}
+.temperature-day {
+    font-weight: bold;
+}
+.weather-forecast {
+    text-align: center;
+}
+.day-of-week {
+    font-weight: bold;
+}
+.city-name {
+    font-size: 30px;
+    font-weight: bold;
+}
+.date {
+    color: rgb(106, 101, 101);
+    font-size: 18px;
+}
+.F {
+    text-decoration: none;
+    font-size: 12px;
+    position: relative;
+}
+
+.current-temperature {
+    font-size: 34px;
+}
+.temperature {
+    margin-top: 10px;
+}
+.C {
+    text-decoration: none;
+    font-size: 12px;
+    position: relative;
+    top: -14px;
+}
+.addInfo {
+    list-style: none;
+    color: rgb(106, 101, 101);
+    line-height: 0.5;
+    padding: 25px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.description {
+font-size: 25px;
+color:rgb(67, 111, 113);
+font-weight: bold;
+}
