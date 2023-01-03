@@ -1,4 +1,4 @@
-body {
+.container {
     display: block;
     max-width: 800px;
     margin: 100px auto 0;
@@ -71,4 +71,15 @@ margin-top: 10px;
 font-size: 25px;
 color:rgb(67, 111, 113);
 font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Git-Hub-Link {
+   display: block;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px 30px;
 }
