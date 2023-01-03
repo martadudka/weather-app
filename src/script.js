@@ -1,4 +1,3 @@
-//current date
 let currentDate = new Date();
 let timeRow = document.querySelector(".date");
 
